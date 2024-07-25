@@ -1,1 +1,0 @@
-If you have the public key file saved as "id_rsa.pub" use that file and get the "n" by using the script "publickeytofinN.py" After that copy that "N" and paste it into the output of "privatekeypem.py" This will factorize and solve the whole RSA and save it to a "PEM" private key which could be used to log in on the particular SSH server.
