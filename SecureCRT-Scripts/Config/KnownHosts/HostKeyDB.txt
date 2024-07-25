@@ -1,3 +1,0 @@
-﻿2,reservations.networkinglab.ca,199.212.32.251:3004,reservations.networkinglab.ca[199.212.32.251]3004.pub
-2,chal.ctf.games,34.123.197.237:30264,chal.ctf.games[34.123.197.237]30264.pub
-2,172.16.0.8,172.16.0.8:22,172.16.0.8[172.16.0.8]22.pub
